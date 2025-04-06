@@ -1,0 +1,14 @@
+{
+  "id": "spring-academy-guides-tdc-spring-serverless-spring-",
+  "slug": "spring-serverless-spring-",
+  "title": "Serverless Spring",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Getting-Started",
+    "Spring-Boot",
+    "Spring-Cloud-Function",
+    "Serverless",
+    "TDC"
+  ]
+}

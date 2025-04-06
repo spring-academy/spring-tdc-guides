@@ -1,0 +1,14 @@
+{
+  "id": "spring-academy-guides-tdc-spring-graalvm-with-spring",
+  "slug": "spring-graalvm-with-spring",
+  "title": "Getting Started with GraalVM and Spring Native",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Spring-Boot",
+    "GraalVM",
+    "Getting-Started",
+    "Spring",
+    "TDC"
+  ]
+}

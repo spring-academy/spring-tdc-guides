@@ -1,0 +1,17 @@
+{
+  "id": "spring-academy-guides-tdc-microservices-reactive-distributed-tracing",
+  "slug": "microservices-reactive-distributed-tracing",
+  "title": "Tracing a Reactive Kotlin App with Spring Cloud Sleuth and OpenZipkin",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Distributed-Tracing",
+    "Getting-Started",
+    "Kotlin",
+    "Reactive",
+    "Spring-Boot",
+    "Spring-Cloud-Sleuth",
+    "Zipkin",
+    "TDC"
+  ]
+}

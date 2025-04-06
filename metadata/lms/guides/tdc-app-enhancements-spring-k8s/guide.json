@@ -1,0 +1,14 @@
+{
+  "id": "spring-academy-guides-tdc-kubernetes-app-enhancements-spring-k8s",
+  "slug": "kubernetes-app-enhancements-spring-k8s",
+  "title": "A Microservices Guide for Spring Cloud Kubernetes Reference Architecture",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Kubernetes",
+    "Spring",
+    "Java",
+    "Microservices",
+    "TDC"
+  ]
+}

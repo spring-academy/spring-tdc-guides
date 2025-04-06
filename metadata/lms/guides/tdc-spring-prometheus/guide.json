@@ -1,0 +1,8 @@
+{
+  "id": "spring-academy-guides-tdc-spring-spring-prometheus",
+  "slug": "spring-spring-prometheus",
+  "title": "Gathering Metrics from Spring Boot on Kubernetes with Prometheus and Grafana",
+  "type": "article",
+  "status": "unlisted",
+  "topics": ["spring-boot", "observability", "prometheus", "grafana"]
+}

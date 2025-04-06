@@ -1,0 +1,14 @@
+{
+  "id": "spring-academy-guides-tdc-spring-request-response-logging",
+  "slug": "spring-request-response-logging",
+  "title": "How to Log Request & Response in Spring Boot Applications",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Logging",
+    "Spring-Boot",
+    "Observability",
+    "Spring",
+    "TDC"
+  ]
+}

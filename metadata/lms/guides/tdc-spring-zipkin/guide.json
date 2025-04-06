@@ -1,0 +1,17 @@
+{
+  "id": "spring-academy-guides-tdc-spring-spring-zipkin",
+  "slug": "spring-spring-zipkin",
+  "title": "Getting Started with Zipkin and Spring Boot",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Spring-Boot",
+    "REST",
+    "API",
+    "Zipkin",
+    "Observability",
+    "Spring",
+    "Microservices",
+    "TDC"
+  ]
+}

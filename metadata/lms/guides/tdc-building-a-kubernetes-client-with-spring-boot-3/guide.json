@@ -1,0 +1,14 @@
+{
+  "id": "spring-academy-guides-tdc-building-a-kubernetes-client-with-spring-boot-3",
+  "slug": "building-a-kubernetes-client-with-spring-boot-3",
+  "title": "Let’s Build a Kubernetes Client with Spring Boot 3’s new AOT engine and GraalVM native images.",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Spring",
+    "Spring-Boot",
+    "Kubernetes",
+    "GraalVM",
+    "TDC"
+  ]
+}

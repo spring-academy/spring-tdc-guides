@@ -1,0 +1,19 @@
+{
+  "id": "spring-academy-guides-tdc-spring-tls-rsocket-spring-boot",
+  "slug": "spring-tls-rsocket-spring-boot",
+  "title": "Learn how to apply TLS to Spring RSocket",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Keystore",
+    "X.509",
+    "OpenSSL",
+    "Kotlin",
+    "TCP",
+    "SSL",
+    "TLS",
+    "Reactive",
+    "Spring-Boot",
+    "TDC"
+  ]
+}

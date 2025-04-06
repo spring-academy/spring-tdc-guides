@@ -1,0 +1,1 @@
+This guide was originally authored by [Brian McClain](https://www.linkedin.com/in/brian-mcclain/)

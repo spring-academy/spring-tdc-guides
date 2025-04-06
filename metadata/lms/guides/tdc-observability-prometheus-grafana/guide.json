@@ -1,0 +1,14 @@
+{
+  "id": "spring-academy-guides-tdc-kubernetes-prometheus-grafana",
+  "slug": "kubernetes-prometheus-grafana",
+  "title": "Gathering Metrics from Kubernetes with Prometheus and Grafana",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Kubernetes",
+    "Observability",
+    "Prometheus",
+    "Grafana",
+    "TDC"
+  ]
+}

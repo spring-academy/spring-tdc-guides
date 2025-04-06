@@ -1,0 +1,16 @@
+{
+  "id": "spring-academy-guides-tdc-event-streaming-spring-cloud-stream-kafka-p3",
+  "slug": "event-streaming-spring-cloud-stream-kafka-p3",
+  "title": "Spring Cloud Stream Kafka (Part 3) - Functional Programming",
+  "type": "article",
+  "status": "unlisted",
+  "topics": [
+    "Spring-Cloud-Stream-Kafka",
+    "Event-Streaming",
+    "Spring",
+    "Kafka",
+    "Microservices",
+    "Messaging-and-Integration",
+    "TDC"
+  ]
+}

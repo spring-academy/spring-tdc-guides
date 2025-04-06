@@ -1,0 +1,15 @@
+{
+  "id": "spring-academy-guides-tdc-spring-webclient-gs",
+  "slug": "spring-webclient-gs",
+  "title": "Getting Started with Spring WebClient",
+  "type": "article",
+  "status": "live",
+  "topics": [
+    "spring-boot",
+    "reactive",
+    "spring",
+    "microservices",
+    "new-release"
+  ],
+  "instructors": ["spring-eric-standley"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "spring-academy-guides-tdc-spring-spring-distributed-lock",
+  "slug": "spring-spring-distributed-lock",
+  "title": "How To Implement a Spring Distributed Lock",
+  "type": "article",
+  "status": "unlisted",
+  "instructors": ["spring-eric-standley"],
+  "topics": [
+    "spring-boot",
+    "spring-integration",
+    "api",
+    "getting-started",
+    "spring",
+    "microservices",
+    "tdc"
+  ]
+}
